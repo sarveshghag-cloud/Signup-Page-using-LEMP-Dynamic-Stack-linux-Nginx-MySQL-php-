@@ -10,7 +10,7 @@
 ---
 ## 🏗️ Architecture
 
-![alt text](image/dynamic.drawio.png)
+![alt text](IMG/dynamic.drawio.png)
 
 ---
 
@@ -41,13 +41,13 @@
 ```
 ---
 ## Output
-![alt text](<image/Screenshot 2025-12-17 143010.png>)
-![alt text](<image/Screenshot 2025-12-17 143139.png>)
+![alt text](<IMG/Screenshot 2025-12-17 143010.png>)
+![alt text](<IMG/Screenshot 2025-12-17 143139.png>)
 --
 
 
 ### Data Store in Database
-![alt text](<image/Screenshot 2025-12-17 142951.png>)
+![alt text](<IMG/Screenshot 2025-12-17 142951.png>)
 
 ---
 
