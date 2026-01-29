@@ -1,6 +1,6 @@
 # Signup Page using LEMP Dynamic Stack  (linux, Nginx, MySQL, php)
 
-## 📌 Overview
+##  Overview
 - This project demonstrates how to deploy a **dynamic website** using the **LEMP stack**:
 * **Linux** – Operating System (Ubuntu / Amazon Linux)
 * **Nginx** – Web Server
@@ -8,29 +8,29 @@
 * **PHP** – Server-side scripting
 
 ---
-## 🏗️ Architecture
+##  Architecture
 
 ![alt text](IMG/dynamic.drawio.png)
 
 ---
 
-## 🚀 Installation Steps
+##  Installation Steps
 
-### 1️⃣ Update System
+### 1️. Update System
 
-### 2️⃣ Install Nginx
+### 2️. Install Nginx
 
-### 3️⃣ Install MySQL
+### 3️. Install MySQL
 
      Create database:
 
-### 4️⃣ Install PHP & PHP-FPM
+### 4️. Install PHP & PHP-FPM
 
-### 5️⃣ Configure Nginx for PHP
+### 5️. Configure Nginx for PHP
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 /var/www/html/
@@ -51,7 +51,7 @@
 
 ---
 
-## 📌 Summary 
+##  Summary 
 This project is open-source and free to use for learning and development.
 
 
